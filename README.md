@@ -1,4 +1,4 @@
-Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
+Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual , Modelos en 3D y Realidad Aumentada.
 ---
 ### Music dancer en three.js
 Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones, se cambia de fondo y se visualiza un playlist en youtube.
