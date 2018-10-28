@@ -51,11 +51,11 @@ Barco de carga que se encarga de transportar cajas y mover el barco con controle
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706950/barco.jpg "Here is the Title text")
 
 ### Realidad Aumentada para Concurso de National Geographic
-Reconocimiento de áreas protegidas s gatode los grandes , Cámara de Heatmap, reconocimiento y alerta de mensaje de carros, y reconocimiento de los grandes felinos. Desarrollado con Vuforia y Unity.
+Reconocimiento de áreas protegidas de los grandes gatos, Cámara de Heatmap, reconocimiento y alerta de mensaje de carros, y reconocimiento de los grandes felinos. Desarrollado con Vuforia y Unity.
 
 [ver codigo ](https://github.com/LEPPEDIAZ/RealidadAumentada)
 
-`para correr: presionar html`
+`para correr: abrir en unity`
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717253/africa.jpg "Here is the Title text")
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717279/scanner.jpg "Here is the Title text")
