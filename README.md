@@ -51,7 +51,7 @@ Barco de carga que se encarga de transportar cajas y mover el barco con controle
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706950/barco.jpg "Here is the Title text")
 
 ### Realidad Aumentada para Concurso de National Geographic
-Reconocimiento de áreas protegidas de los grandes gatos alrededor del mundo, Cámara de Heatmap, reconocimiento y alerta de mensaje de carros y reconocimiento de los grandes felinos.  
+Reconocimiento de áreas protegidas de los grandes gatos alrededor del mundo, Cámara de Heatmap, reconocimiento y alerta de mensaje de carros, y reconocimiento de los grandes felinos.  
 
 [ver codigo ](https://github.com/LEPPEDIAZ/RealidadAumentada)
 
