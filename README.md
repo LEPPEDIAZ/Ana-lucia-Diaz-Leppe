@@ -33,10 +33,7 @@ Página web creada con React-Redux y con un backend en Django. Permite crear pla
 
 [ver codigo frontend](https://github.com/LEPPEDIAZ/ProyectoWebMusic)
 
-`para correr: npm install`
-
-
-`para correr: npm start`
+`para correr: npm install y luego npm start`
 
 [ver codigo backend](https://github.com/LEPPEDIAZ/Lab9-Web-Chismes-backend)
 
