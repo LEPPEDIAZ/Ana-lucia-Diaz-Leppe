@@ -1,23 +1,23 @@
 Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
 ---
 ### Music dancer en three.js
-Baile de Vocaloid Hatsune Miku y otros personajes al ritmo de la música dentro de diferentes canciones al mismo tiempo que muestra las frecuencias de las canciones y hace un playlist con youtube.
+Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones y se visualiza un playlist en youtube..
 
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540704499/bailarin.jpg "Here is the Title text")
 
 ### Página de bandera blanca de gente de mar (en desarrollo)
-Proyecto universitario en desarrollo que fue creado con el objetivo de crear trabajo internacional para los ciudadanos guatemaltecos por medio de certificados dentro de la escuela politécnica. Debido a que es confidencial no se puede presentar el código.
+Proyecto universitario que se encuentra en desarrollo el cual fue creado con el objetivo de crear trabajo internacional para los ciudadanos guatemaltecos por medio de certificados que se validan dentro de la escuela politécnica. Debido a que es confidencial no se puede presentar el código.
 
 [ver pagina web](http://nomsapp.org/)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706926/marina.jpg "Here is the Title text")
 
 ### Cooking Game en Unity y WebGL 
-Juego online desarrollado dentro de Unity para Azúcar Caña Real para la navidad 2018 en donde el usuario pica comida, cocina la comida, entrega la comida y acumula puntos. Todos los modelos y animaciones fueron creados personalmente dentro de Blender y transportados a la plataforma.
+Juego online desarrollado dentro de Unity para Azúcar Caña Real para la navidad 2018, en donde el usuario pica comida, cocina la comida, entrega la comida y acumula puntos. Todos los modelos y animaciones fueron creados personalmente dentro de Blender y transportados a la plataforma.
 
-[ver codigo](https://github.com/LEPPEDIAZ/SugarHouse)
+[ver video](https://youtu.be/Ord4ietL3IM)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706961/sugarhouse.jpg "Here is the Title text")
 
@@ -38,5 +38,8 @@ Página web creada con React-Redux y con un backend en Django. Permite crear pla
 ### Barco de Carga creado en three.js
 Barco de carga que se encarga de transportar cajas y mover el barco con controles. 
 
+[ver codigo ](https://github.com/LEPPEDIAZ/boat-threejs)
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706950/barco.jpg "Here is the Title text")
 
 
