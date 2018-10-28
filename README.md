@@ -1,33 +1,33 @@
-Conjunto de los proyectos más relevantes realizados en temas de Graficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
+Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
 ---
 ### Music dancer en three.js
-Baile de Miku y otros personajes al ritmo de la musica dentro las diferentes canciones al mismo tiempo que muestra las frecuencias de las canciones y hace un playlist con youtube.
+Baile de Vocaloid Hatsune Miku y otros personajes al ritmo de la música dentro de diferentes canciones al mismo tiempo que muestra las frecuencias de las canciones y hace un playlist con youtube.
 
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540704499/bailarin.jpg "Here is the Title text")
 
-### Pagina de la Marina de Guatemala
-Pagina de la marina de Guatemala, debido que la pagina es confidencial no se puede presentar el codigo. La pagina esta hecha con el objetivo de crear trabajo internacional para los ciudadanos guatemaltecos por medio de certificados dentro de la escuela politecnica.
+### Página de bandera blanca de gente de mar (en desarrollo)
+Proyecto universitario en desarrollo que fue creado con el objetivo de crear trabajo internacional para los ciudadanos guatemaltecos por medio de certificados dentro de la escuela politécnica. Debido a que es confidencial no se puede presentar el código.
 
 [ver pagina web](http://nomsapp.org/)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706926/marina.jpg "Here is the Title text")
 
 ### Cooking Game en Unity y WebGL 
-Juego online desarrollado dentro de Unity para Azucar CR en donde el usuario pica comida, cocina la comida, entrega la comida y acumula puntos. Todos los modelos y animaciones fueron creados personalmente dentro de Blender y transportados a la plataforma.
+Juego online desarrollado dentro de Unity para Azúcar Caña Real para la navidad 2018 en donde el usuario pica comida, cocina la comida, entrega la comida y acumula puntos. Todos los modelos y animaciones fueron creados personalmente dentro de Blender y transportados a la plataforma.
 
 [ver codigo](https://github.com/LEPPEDIAZ/SugarHouse)
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706961/sugarhouse.jpg "Here is the Title text")
 
-### Oculus DK2: Adventure Unity Game
+### Oculus DK2: Action/Adventure Game
 Juego en VR basado en el juego de fortnite en donde el personaje debe vencer dragones y cazar por su comida en forma de pastoreo. Este se desarrollo dentro de Unity y con controles de PS4.
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706984/TalesOfEarthSea.jpg "Here is the Title text")
 
-### Foro para discutir y escuchar musica
-Pagina web creada con React-Redux y con un backend en Django. Permite crear playlist, crear una lista de favoritos, reproducir musica y un sistema de foro donde se puedan comentar y crear likes a sus comentarios.
+### Foro para discutir y escuchar música
+Página web creada con React-Redux y con un backend en Django. Permite crear playlist, crear una lista de favoritos, reproducir música y un sistema de foro donde se puedan comentar y crear likes a sus comentarios.
 
 [ver codigo frontend](https://github.com/LEPPEDIAZ/ProyectoWebMusic)
 
