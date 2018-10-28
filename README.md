@@ -1,4 +1,4 @@
-## P Conjunto de los proyectos mas relevantes realizados en temas de Graficas por computadora, Paginas Web, Realidad Virtual y Modelos en 3D.
+### P Conjunto de los proyectos mas relevantes realizados en temas de Graficas por computadora, Paginas Web, Realidad Virtual y Modelos en 3D.
 
 ### Music dancer en three.js
 Baile de Miku y otros personajes al ritmo de la musica dentro las diferentes canciones al mismo tiempo que muestra las frecuencias de las canciones y hace un playlist con youtube.
