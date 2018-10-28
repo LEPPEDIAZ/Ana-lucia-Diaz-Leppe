@@ -60,4 +60,19 @@ Reconocimiento de áreas protegidas de los grandes gatos, Cámara de Heatmap, re
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717253/africa.jpg "Here is the Title text")
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717279/scanner.jpg "Here is the Title text")
 
+### Ver mas proyectos de Web 
+
+[Chismes App ](https://github.com/LEPPEDIAZ/Lab9-Web-Chismes)
+
+
+[Weather App ](https://github.com/LEPPEDIAZ/Weather-App-React)
+
+
+[Js Game ](https://github.com/LEPPEDIAZ/Juego-1)
+
+
+[Proyecto Biomedica ](https://github.com/LEPPEDIAZ/neutronstarcollision1996)
+
+
+[Ver todos los proyectos ](https://github.com/LEPPEDIAZ)
 
