@@ -1,11 +1,10 @@
-###
 Conjunto de los proyectos mas relevantes realizados en temas de Graficas por computadora, Paginas Web , Realidad Virtual y Modelos en 3D.
-
+---
 ### Music dancer en three.js
 Baile de Miku y otros personajes al ritmo de la musica dentro las diferentes canciones al mismo tiempo que muestra las frecuencias de las canciones y hace un playlist con youtube.
-#
+
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
-#
+
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540704499/bailarin.jpg "Here is the Title text")
 
 ### Pagina de la Marina de Guatemala
