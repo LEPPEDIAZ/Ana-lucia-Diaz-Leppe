@@ -9,13 +9,34 @@ Baile de Miku y otros personajes al ritmo de la musica dentro las diferentes can
 
 ### Pagina de la Marina de Guatemala
 Pagina de la marina de Guatemala, debido que la pagina es confidencial no se puede presentar el codigo. La pagina esta hecha con el objetivo de crear trabajo internacional para los ciudadanos guatemaltecos por medio de certificados dentro de la escuela politecnica.
+
 [ver pagina web](http://nomsapp.org/)
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706926/marina.jpg "Here is the Title text")
 
 ### Cooking Game en Unity y WebGL 
 Juego online desarrollado dentro de Unity para Azucar CR en donde el usuario pica comida, cocina la comida, entrega la comida y acumula puntos. Todos los modelos y animaciones fueron creados personalmente dentro de Blender y transportados a la plataforma.
 
+[ver codigo](https://github.com/LEPPEDIAZ/SugarHouse)
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706961/sugarhouse.jpg "Here is the Title text")
+
 ### Oculus DK2: Adventure Unity Game
-Juego en VR basado en el juego de fortnite en donde el personaje debe vencer dragones y cazar por su comida. 
+Juego en VR basado en el juego de fortnite en donde el personaje debe vencer dragones y cazar por su comida en forma de pastoreo. Este se desarrollo dentro de Unity y con controles de PS4.
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706984/TalesOfEarthSea.jpg "Here is the Title text")
+
+### Foro para discutir y escuchar musica
+Pagina web creada con React-Redux y con un backend en Django. Permite crear playlist, crear una lista de favoritos, reproducir musica y un sistema de foro donde se puedan comentar y crear likes a sus comentarios.
+
+[ver codigo frontend](https://github.com/LEPPEDIAZ/ProyectoWebMusic)
+
+[ver codigo backend](https://github.com/LEPPEDIAZ/Lab9-Web-Chismes-backend)
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706971/musicapp.jpg "Here is the Title text")
+
+### Barco de Carga creado en three.js
+Barco de carga que se encarga de transportar cajas y mover el barco con controles. 
 
 
 
