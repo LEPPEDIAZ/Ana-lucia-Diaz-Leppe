@@ -5,6 +5,8 @@ Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo
 
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
 
+`corre con doble click en: Proyecto_Graficasfinal.html`
+
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540704499/bailarin.jpg "Here is the Title text")
 
 ### Página de bandera blanca de gente de mar (en desarrollo)
