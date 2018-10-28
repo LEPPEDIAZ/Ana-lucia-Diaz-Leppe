@@ -74,5 +74,8 @@ Reconocimiento de áreas protegidas de los grandes gatos, Cámara de Heatmap, re
 [Trabajo de Biomedica para tratar glandulas de meibomio ](https://github.com/LEPPEDIAZ/neutronstarcollision1996)
 
 
+[Juego y animaciones 2D ](https://www.youtube.com/watch?v=lf6zSvHWHeY)
+
+
 [Ver todos los proyectos ](https://github.com/LEPPEDIAZ)
 
