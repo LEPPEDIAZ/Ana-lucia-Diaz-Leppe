@@ -1,7 +1,7 @@
 Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
 ---
 ### Music dancer en three.js
-Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones y se visualiza un playlist en youtube..
+Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones y se visualiza un playlist en youtube.
 
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
 
