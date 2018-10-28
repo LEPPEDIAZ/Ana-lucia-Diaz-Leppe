@@ -1,7 +1,7 @@
 Conjunto de los proyectos más relevantes realizados en temas de Gráficas por computadora, Páginas Web , Realidad Virtual y Modelos en 3D.
 ---
 ### Music dancer en three.js
-Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones y se visualiza un playlist en youtube.
+Baile de Vocaloid y otros personajes que bailan al ritmo de la música, al mismo tiempo se muestran las frecuencias de las canciones, se cambia de fondo y se visualiza un playlist en youtube.
 
 [ver codigo](https://github.com/LEPPEDIAZ/dancedance_threejs)
 
@@ -29,7 +29,7 @@ Juego en VR basado en el juego de fortnite en donde el personaje debe vencer dra
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706984/TalesOfEarthSea.jpg "Here is the Title text")
 
 ### Foro para discutir y escuchar música
-Página web creada con React-Redux y con un backend en Django. Permite crear playlist, crear una lista de favoritos, reproducir música y un sistema de foro donde se puedan comentar y crear likes a sus comentarios.
+Página web creada con React-Redux y con un backend en Django. Permite crear playlist, crear una lista de favoritos, reproducir música y un sistema de foro donde se puedan comentar las canciones. El sistema se entregara el 20 de noviembre del 2018.
 
 [ver codigo frontend](https://github.com/LEPPEDIAZ/ProyectoWebMusic)
 
@@ -49,5 +49,15 @@ Barco de carga que se encarga de transportar cajas y mover el barco con controle
 `para correr: presionar html`
 
 ![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540706950/barco.jpg "Here is the Title text")
+
+### Realidad Aumentada para Concurso de National Geographic
+Reconocimiento de áreas protegidas de los grandes gatos alrededor del mundo, Cámara de Heatmap, reconocimiento y alerta de mensaje de carros y reconocimiento de los grandes felinos.  
+
+[ver codigo ](https://github.com/LEPPEDIAZ/RealidadAumentada)
+
+`para correr: presionar html`
+
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717253/africa.jpg "Here is the Title text")
+![Here is the alt text](https://res.cloudinary.com/dbmokzjuz/image/upload/v1540717279/scanner.jpg "Here is the Title text")
 
 
